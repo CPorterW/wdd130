@@ -1,0 +1,14 @@
+body{
+    background-color: #fba6c9;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 25em;
+}
+
+header {
+    color: rgb(255, 255, 255);
+}
+
+h1:hover {
+    color: black;
+}

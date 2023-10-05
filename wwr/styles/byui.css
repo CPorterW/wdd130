@@ -1,0 +1,17 @@
+img {
+    --textAlignment: center;
+    --horizontalAlignment: center;
+    padding: 15px;
+    width: 100%;
+    min-height: 500px;
+    text-align: var(--textAlignment);
+    justify-content: var(--horizontalAlignment);
+    width: 100%;
+    display: grid;
+    grid-gap: 20px;
+    flex-direction: column;
+    max-width: 600px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+}
+
