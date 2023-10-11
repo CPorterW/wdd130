@@ -1,0 +1,17 @@
+
+.bubbles {
+    width: 100%;
+    display:block;
+}
+.tinyimg {
+    width: 15%;
+    border: 10px solid rgb(68, 68, 68);
+    border-radius: 50%;
+    display: inline;
+    margin: 3%;
+}
+body {
+    margin: 0;
+    text-align: center;
+    background-color: gray;
+}
