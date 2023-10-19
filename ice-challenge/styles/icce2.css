@@ -4,11 +4,11 @@
     display:block;
 }
 .tinyimg {
-    width: 15%;
-    border: 10px solid rgb(68, 68, 68);
+    width: 7%;
+    border: 6px solid rgb(68, 68, 68);
     border-radius: 50%;
     display: inline;
-    margin: 3%;
+    margin: 2%;
 }
 body {
     margin: 0;
