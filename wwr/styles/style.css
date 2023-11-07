@@ -121,6 +121,27 @@
     .msg p {
         padding-bottom: 15px;
     }
+    .faq {
+        text-align: center;
+        padding: 10%;
+    }
+    .faq h1{
+        font-size: larger;
+    }
+    .faqhero {
+        /* background-image: url(https://byui-wdd.github.io/wdd130/resources/images/rafting14_600.jpg); */
+        position: relative;
+    }
+    .faqhero h1 {
+        position: absolute;
+        color: white;
+        top: 7%;
+        left: 20%;
+
+    }
+    .faqhero img{
+        width: 100%;
+    }
 
 
 /* All Images */
@@ -250,6 +271,9 @@
         }
         footer {
             margin-top: 25px;
+        }
+        .faqhero {
+            font-size:small;
         }
     }
                 
