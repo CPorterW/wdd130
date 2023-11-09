@@ -1,0 +1,45 @@
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+.toe {
+    background-color: #415d8b;
+    border: white;
+    border-style: 5px solid;
+    color: white;
+}
+.toe {
+    font-size: large;
+}
+.toe p {
+    font-size: small;
+}
+.bigtoe {
+    grid-column: 1/2;
+}
+.middletoe {
+    grid-column: 2/3;
+}
+.pinkytoe {
+    grid-column: 3/4;
+}
+img {
+    width: 100%;
+    margin: 0;
+    max-height: 30%;
+}
+body {
+    margin: 0;
+    align-content: center;
+}
+h2 {
+    color: #415d8b;
+}
+main {
+    
+}
+main p {
+    color: gray;
+    max-width: 80%;
+}
